@@ -1,0 +1,23 @@
+{
+  "name": "jscrollpane",
+  "version": "2.0.0",
+  "description": "Scrollpane Plugin for jQuery",
+  "main": "jquery.jscrollpane.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karsasmus/jscrollpane.git"
+  },
+  "keywords": [
+    "jquery",
+    "scrollpane"
+  ],
+  "author": "Kelvin Luck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karsasmus/jscrollpane/issues"
+  },
+  "homepage": "https://github.com/karsasmus/jscrollpane#readme"
+}
